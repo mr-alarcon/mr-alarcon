@@ -16,6 +16,10 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
       <sub>Flask</sub>
     </td>
     <td align="center">
+      <img src="https://cdn.simpleicons.org/go/ffffff" width="40"><br>
+      <sub>Golang</sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.simpleicons.org/linux/ffffff" width="40"><br>
       <sub>Linux</sub>
     </td>
