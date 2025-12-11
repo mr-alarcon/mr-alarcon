@@ -12,12 +12,24 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
       <sub>Python</sub>
     </td>
     <td align="center">
+      <img src="https://cdn.simpleicons.org/qt/ffffff" width="40"><br>
+      <sub>Qt</sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.simpleicons.org/flask/ffffff" width="40"><br>
       <sub>Flask</sub>
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/go/ffffff" width="40"><br>
       <sub>Golang</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/html5/ffffff" width="40"><br>
+      <sub>HTML</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/css/ffffff" width="40"><br>
+      <sub>CSS</sub>
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/linux/ffffff" width="40"><br>
