@@ -51,8 +51,10 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
   </tr>
 </table>
 
-<p align="center">
-Contact me:
+<h3 align="center">Contact me</h3>
+
 <br>
+
+<p align="center">
 <a href="https://t.me/mr_alarcon">Telegram</a> - <a href="https://x.com/mr_alarcon_">Twitter</a> - <a href="marcosdavidalarcon06@gmail.com">Gmail</a> - <a href="https://app.joinhandshake.com/profiles/mr-alarcon">Handshake</a>
 </p>
