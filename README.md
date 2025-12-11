@@ -12,6 +12,10 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
       <sub>Python</sub>
     </td>
     <td align="center">
+      <img src="https://cdn.simpleicons.org/flask/ffffff" width="40"><br>
+      <sub>Flask</sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.simpleicons.org/linux/ffffff" width="40"><br>
       <sub>Linux</sub>
     </td>
