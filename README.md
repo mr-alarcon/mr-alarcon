@@ -53,8 +53,8 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
 
 Contact me:
 <br>
- [**Telegram:**](https://t.me/mr_alarcon)
+[**Telegram**](https://t.me/mr_alarcon)
 <br>
-**X (Twitter):** [@mr_alarcon](https://x.com/mr_alarcon_)
+[**X (Twitter)**](https://x.com/mr_alarcon_)
 <br>
-**Gmail:** [@mr_alarcon](marcosdavidalarcon06@gmail.com)
+[**Gmail**](marcosdavidalarcon06@gmail.com)
