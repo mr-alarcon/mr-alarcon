@@ -8,3 +8,6 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
 <img src="https://cdn.simpleicons.org/python/ffffff" width="10"> Python
 <br>
 <img src="https://cdn.simpleicons.org/flask/ffffff" width="10"> Flask
+<br>
+<img src="https://cdn.simpleicons.org/go/ffffff" width="10"> Golang
+
