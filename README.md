@@ -25,6 +25,10 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
       <sub>Golang</sub>
     </td>
     <td align="center">
+      <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="40"><br>
+      <sub>Bash</sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.simpleicons.org/html5/ffffff" width="40"><br>
       <sub>HTML</sub>
     </td>
