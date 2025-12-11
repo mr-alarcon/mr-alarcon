@@ -1,3 +1,5 @@
+![ ](https://raw.githubusercontent.com/mr-alarcon/mr-alarcon/refs/heads/main/Not%20just%20studying%20tech%20%E2%80%94%20living%20it..gif)
+
 Hi, I'm Marcos Alarcon a cybersecurity student and self taught developer.
 I'm currently in my 4th semester of the Technology Against Cybercrime program at Cape Fear Community College, working toward my Associate degree. I’m originally from Cuba, 19 years old, and also studying ESL alongside my technical coursework.
 
