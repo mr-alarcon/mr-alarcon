@@ -52,4 +52,5 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
 </table>
 
 Contact me in:
-<img src="https://cdn.simpleicons.org/telegram/ffffff" width="10"> @mr_alarcon
+<br>
+<img src="https://cdn.simpleicons.org/telegram/ffffff" width="20"> @mr_alarcon
