@@ -7,4 +7,5 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/ffffff" width="60">
+  Python
 </p>
