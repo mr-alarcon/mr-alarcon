@@ -50,3 +50,6 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
     </td>
   </tr>
 </table>
+
+Contact me in:
+<img src="https://cdn.simpleicons.org/telegram/ffffff" width="10"> @mr_alarcon
