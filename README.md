@@ -32,6 +32,10 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
       <sub>CSS</sub>
     </td>
     <td align="center">
+      <img src="https://cdn.simpleicons.org/sqlite/ffffff" width="40"><br>
+      <sub>SQLite</sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.simpleicons.org/linux/ffffff" width="40"><br>
       <sub>Linux</sub>
     </td>
