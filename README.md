@@ -5,4 +5,4 @@ I'm currently in my 4th semester of the Technology Against Cybercrime program at
 
 <p align="center">I’ve been learning and building in the field of computing for the past 5 years, entirely self taught. Technology is not just something I study it’s my daily routine, my work, my hobby, and my lifestyle. I enjoy building tools, understanding how systems behave and exploring cybersecurity from both defensive and analytical perspectives.</p>
 
-<img src="https://cdn.simpleicons.org/python/ffffff" width="10"/> Python, PyQt, Flask
+<img src="https://cdn.simpleicons.org/python/ffffff" width="20" style="vertical-align: middle;"/> Python
